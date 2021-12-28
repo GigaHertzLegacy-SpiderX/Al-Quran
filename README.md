@@ -7,6 +7,15 @@ In this repository, I have linked up all Surah with Arabic-Bangla Audio From You
 
 The [pipeqs](https://pypi.org/project/pipreqs/) is not working in python-10. So, you have to install all the dependencies manually :(
 
+## For Normal Installation :
+```sh
+1. Download the Zip File From Code
+2. Extract it
+3. Go to the folder
+3. open cmd in that folder
+4. python main_bd.py 
+```
+## Install these ( must ) :
 ```bash
 
 pip install pafy
