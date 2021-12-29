@@ -15,7 +15,7 @@ def audio(url):
     player.set_media(Media)
     player.play()
     secs = int(audio.length)
-    secs = secs + 5
+    secs = secs + 2
     print("[+] Seaching for the audio...")
     print("[+] Playing the audio...")
     print("[*] It will take some time if your Internet Connection is slow...")
