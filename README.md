@@ -26,6 +26,7 @@ pip install --upgrade youtube-dl
 
 ```
 ## <-> Fixed Error <->
+#### You must have [VLC](https://www.videolan.org/vlc/download-windows.html) installed in your PC
 #### Video Link : [https://youtu.be/K4QKSN17Fh8](https://youtu.be/K4QKSN17Fh8)
 #### Dislike_Count [ Fixed ] : [https://www.youtube.com/watch?v=K4QKSN17Fh8&t=54s](https://www.youtube.com/watch?v=K4QKSN17Fh8&t=54s)
 # Usage 
