@@ -17,6 +17,7 @@ def Visual():
     27. An-Naml (the Ants)                  28. Al-Qasas (the Stories)
 
     """)
+    
     print("""
     29. Al-Ankabut (the Spider)             30. Ar-Rum (the Romans)
     31. Luqman (Luqman)                     32. As-Sajdah (the Prostration)
@@ -125,6 +126,7 @@ def N59to80():
     79. Al-Naziat (the Abode)               80. ‘Abasa (He Frowned)
           """)
 
+    
 def N81to114():
     print("""
     81. At-Takwir (the Overthrowing)                82. Al-Infitar (the Cleaving)
@@ -146,3 +148,6 @@ def N81to114():
     113. Al-Falaq (the Daybreak)                    114. An-Nas (Mankind)
 
          """)
+    
+ if __name__=="__main__":
+    print("Run here !")
