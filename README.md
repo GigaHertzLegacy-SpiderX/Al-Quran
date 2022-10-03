@@ -1,4 +1,4 @@
-# Al-Quran
+<h1 align="center"> Al-Quran [ Bangla ]</h1>
 In this repository, I have linked up all Surah with Arabic-Bangla Audio From Youtube. So, you just need to choose and listen. and the ( surah_setup.py ) is free to use, so make your own repo :D
 ![Ss1](https://github.com/GigaHertzLegacy-SpiderX/Al-Quran/blob/main/Images/1.png)
 ![Ss2](https://github.com/GigaHertzLegacy-SpiderX/Al-Quran/blob/main/Images/2.png)
